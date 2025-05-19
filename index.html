@@ -23,13 +23,30 @@ layout: default
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
       {% endfor %}
-      <a href={{ "/about/" | prepend: site.baseurl }}>About</a>
+      <a href={{ "/about/" | prepend: site.baseurl }}>Impressum</a>
     </div>
 </header>
 
 
 <main class="content" role="main">
 
+
+    <div class="cf frame">
+      <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+        <div class="article-item">
+          <header class="post-header">
+            <h2 class="post-title"</h2>
+          </header>
+          <section class="post-excerpt">
+          <p>{{ site.summary }}</p>
+          <button style="all: inherit; background-color: lightgrey; border-radius: 8px; cursor: pointer; padding: 8px 16px;">
+            Mitglied werden
+          </button>
+
+          </section>
+        </div>
+      </article>
+    </div>
 
 
 

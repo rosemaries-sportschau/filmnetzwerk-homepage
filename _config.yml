@@ -4,11 +4,18 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Göttinger Filmnetzwerk"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Verbund von freien Filmschaffenden
 
-email: a-mail@mail.mail
+summary: > # this means to ignore newlines until "email:"
+   <h2>Vernetzung. Bildung. Produktion.</h2>
+   Wir sind ein Verbund von freien Filmschaffenden, professionellen Schauspielern und filmbegeisterten Menschen, der das kreative Potential der Filmszene in der Region Südniedersachsen fördert. 
+   
+   Die Schwerpunkte des Vereins liegen auf dem <b>Austausch zwischen Filmemachern</b>, der <b>Vermittlung von filmtechnischem Wissen</b> sowie der <b>Entwicklung von narrativen Filmstoffen und deren Umsetzung in begeisternde Filmprojekte</b>.
+
+
+email: kontakt@goettinger-filmnetzwerk.de
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -18,8 +25,8 @@ cover: "/assets/images/Lumiere.jpg"
 # cover: "/assets/images/cropped-GFNW-Logo-20174358.png"
 # cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Silas Hoffmann'
+author: 'Silas Hoffmann'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -27,7 +34,7 @@ paginate:	5
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+# twitter_handle: '@dirkfabisch'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -36,12 +43,12 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+#   - icon:	twitter
+#     url:	https://twitter.com/dirkfabisch
+#     desc: Follow me on twitter
+#     share_url: http://twitter.com/share
+#     share_title: ?text=
+#     share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -50,12 +57,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+  # - icon:	github
+  #   url:	https://github.com/dirkfabisch
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
 
   - icon:	instagram
     url:	https://google.com/???

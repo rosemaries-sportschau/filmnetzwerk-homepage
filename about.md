@@ -1,17 +1,10 @@
 ---
 layout: page
-title: About
+title: Ein FilmnetzWerk entsteht
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Wir vernetzen Filmschaffende und Filmbegeisterte, um in einer kreativen Gemeinschaft attraktive Filmprojekte anzuregen, zu entwickeln und zu produzieren. Dafür findet regelmäßig das Drehbuchcafé statt sowie jeden letzten Mittwoch im Monat unser Kurzfilmabend Guck & Schluck, der allen Filminteressierten offen steht.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<b>Partnerschaften bilden</b>
+Die Kompetenzen der Vereinsmitglieder werden mit Kooperationspartnern aus den Bereichen Kultur, Wissenschaft, Bildung und Privatwirtschaft auf effiziente Weise verbunden. Unser Ziel ist die Förderung der Medienlandschaft in Südniedersachsen.
