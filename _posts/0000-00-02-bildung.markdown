@@ -1,16 +1,14 @@
 ---
 layout: post
 title:  "Bildung"
-date:   2025-01-20 14:34:25
+date:   2025-04-20 14:34:25
 categories: bildung
 tags: featured
-image: /assets/article_images/2025-05-20-bildung/Workshop.jpg
+image: /assets/images/Workshop.jpg
 ---
 
 **Weiterbildung für Profis und Laien**:
 Mindestens ein Mal im Monat findet ein Workshop-Abend „von Mitgliedern für Mitglieder“ statt. Darüber hinaus geben erfahrene Dozenten aus der Medienbranche ihr Wissen in Seminaren und Workshops weiter.
-
-
 
 **Medienkompetenz vermitteln**:
 In Kooperation mit Schulen und weiterbildenden Einrichtungen unterstützen wir das Angebot medienpädagogischer Bildung. Wir geben den Anstoß, den Konsum moderner Medien zu hinterfragen und vermitteln gleichzeitig die Fähigkeit ihrer kompetenten Gestaltung.
