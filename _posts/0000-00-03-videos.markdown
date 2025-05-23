@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Videos"
-date:   2025-04-18 14:34:25
+date:   2025-04-16 14:34:25
 categories: video
 tags: featured
 image: /assets/images/Where-to-go.jpg
@@ -9,12 +9,7 @@ image: /assets/images/Where-to-go.jpg
 
 Ausschnitte bisheriger Projekte.
 
-<iframe width="560" height="315" 
-  src="https://www.youtube.com/watch?v=_dy6dUVOthQ" 
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
 
-
+<a href="https://www.youtube.com/watch?v=_dy6dUVOthQ">
+    <img src="/assets/images/filmframe_arrow.jpg" style="border-radius: 5%; object-fit: cover;"/>
+</a>

@@ -65,8 +65,15 @@ social:
   #   share_link:
 
   - icon:	instagram
-    url:	https://google.com/???
-    desc:	Add me on google+
+    url:	https://www.instagram.com/filmnetzwerk/?hl=de
+    desc:	Instagram Goettinger Filmnetzwerk
+    share_url:
+    share_title:
+    share_link:
+
+  - icon:	envelope
+    url: mailto:kontakt@goettinger-filmnetzwerk.de
+    desc:	Mail Goettinger Filmnetzwerk
     share_url:
     share_title:
     share_link:
