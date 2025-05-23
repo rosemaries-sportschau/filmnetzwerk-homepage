@@ -8,7 +8,8 @@ image: /assets/images/Workshop.jpg
 ---
 
 **Weiterbildung für Profis und Laien**:
-Mindestens ein Mal im Monat findet ein Workshop-Abend „von Mitgliedern für Mitglieder“ statt. Darüber hinaus geben erfahrene Dozenten aus der Medienbranche ihr Wissen in Seminaren und Workshops weiter.
+Mindestens ein Mal im Monat findet ein Workshop-Abend „von Mitgliedern für Mitglieder“ statt. Darüber hinaus geben erfahrene Dozenten aus der Medienbranche ihr Wissen in Seminaren und Workshops weiter. Die Themen reichen von Kamera- und Schnitttechnik über Storytelling bis hin zu rechtlichen Grundlagen der Medienproduktion.
+So entsteht ein lebendiger Wissensaustausch, der alle Mitglieder in ihrer kreativen und beruflichen Entwicklung unterstützt.
 
 **Medienkompetenz vermitteln**:
 In Kooperation mit Schulen und weiterbildenden Einrichtungen unterstützen wir das Angebot medienpädagogischer Bildung. Wir geben den Anstoß, den Konsum moderner Medien zu hinterfragen und vermitteln gleichzeitig die Fähigkeit ihrer kompetenten Gestaltung.
